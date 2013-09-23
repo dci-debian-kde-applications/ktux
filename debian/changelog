@@ -1,0 +1,5 @@
+ktux (4:4.11.1-0r0) UNRELEASED; urgency=low
+
+  * First release of kdetoys after being split by upstream.
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 23 Sep 2013 11:43:38 +0200
