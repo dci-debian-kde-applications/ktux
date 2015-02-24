@@ -1,2 +1,2 @@
 version=3
-http://download.kde.org/stable/([\d.]+)/src/ktux-([\d.]+).tar.xz
+http://download.kde.org/stable/applications/([\d.]+)/src/ktux-([\d.]+).tar.xz
